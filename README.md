@@ -1,1 +1,1 @@
-# thermodynamic-plate-analysis
+# Thermodynamic Plate Analysis
